@@ -711,6 +711,7 @@ a:hover, a:active {
 	position: absolute;
 	display: none;
 	margin: 0;
+	text-decoration: none;
 }
 
 .menu-list {
